@@ -1,0 +1,15 @@
+@import "header_main.css";
+@import "header-slider.css";
+@import "slider-prop.css";
+@font-face {
+    font-family: PtSans;
+    src:local("PtSans"), url("../fonts/PTC55F.ttf");
+}
+body {
+    width:90%;
+    margin: 0 auto;
+    padding: 30px;
+}
+* {
+    font-family: PtSans;
+}

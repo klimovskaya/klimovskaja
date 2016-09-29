@@ -1,0 +1,36 @@
+.new-prpositions-area div{
+    width: 16%;
+    height:290px;
+    border:1px ridge #b7b7b7;
+    padding: 10px 0px;
+}
+.new-prpositions-area div a {
+    display: block;
+    text-decoration: none;
+    width: 86%;
+    margin: 0 auto;
+    position: relative;
+}
+.new-prpositions-header-text {
+    display: inline-block;
+    width: 100%;
+    margin-bottom: 10px;
+    color: #353535;
+    font-size: 12px;
+}
+
+.new-prpositions-header-text span:first-child {
+    color:#63a464;
+    float: left;
+    text-transform: capitalize;
+}
+
+.new-prpositions-header-text span:first-child span{
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    background: url('../images/icons.png') no-repeat 43% 29%;
+}
+.new-prpositions-header-text .proposition-art {
+    float: right;
+}
